@@ -1,0 +1,1919 @@
+[
+  {
+    "country":"Uzbekistan",
+    "capital":"Tashkent",
+    "description":"capital of Uzbekistan",
+    "lat_dd":41.311111111,
+    "lon_dd":69.279722222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Aerial%20view%20of%20Tashkent%2C%20Uzbekistan.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Switzerland",
+    "capital":"Bern",
+    "description":"city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",
+    "lat_dd":46.94798,
+    "lon_dd":7.44743,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bern%20luftaufnahme.png",
+    "image_path":""
+  },
+  {
+    "country":"Singapore",
+    "capital":"Singapore",
+    "description":"sovereign island country and city-state in maritime Southeast Asia",
+    "lat_dd":1.3,
+    "lon_dd":103.8,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Raffles%20Place.jpg",
+    "image_path":""
+  },
+  {
+    "country":"North Macedonia",
+    "capital":"Skopje",
+    "description":"capital city of North Macedonia",
+    "lat_dd":41.996111111,
+    "lon_dd":21.431666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Stone%20Bridge%20Skopje%204.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Germany",
+    "capital":"Berlin",
+    "description":"federated state, capital and largest city of Germany",
+    "lat_dd":52.516666666,
+    "lon_dd":13.383333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cityscape%20Berlin.jpg",
+    "image_path":""
+  },
+  {
+    "country":"United States",
+    "capital":"Washington, D.C.",
+    "description":"capital city of the United States of America",
+    "lat_dd":38.895,
+    "lon_dd":-77.036666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/DCmontage2.jpg",
+    "image_path":"capital_images\/washington,_d.c..jpg"
+  },
+  {
+    "country":"Belgium",
+    "capital":"City of Brussels",
+    "description":"municipality and capital city of Belgium",
+    "lat_dd":50.846666666,
+    "lon_dd":4.351666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Brussels%20view%20from%20Mont%20des%20Arts%2C%20Brussels%2C%20Belgium%20%28cropped%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Czech Republic",
+    "capital":"Prague",
+    "description":"capital city of the Czech Republic",
+    "lat_dd":50.0875,
+    "lon_dd":14.421388888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pet%C5%99%C3%ADn%20Tower%20View%20IMG%203020.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Slovenia",
+    "capital":"Ljubljana",
+    "description":"capital city of Slovenia",
+    "lat_dd":46.051388888,
+    "lon_dd":14.506111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/2021-07-28%20Ljubljana-0881.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Bulgaria",
+    "capital":"Sofia",
+    "description":"capital city of Bulgaria",
+    "lat_dd":42.697886,
+    "lon_dd":23.321726,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Russian%20church%20%2837591925970%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Guinea",
+    "capital":"Conakry",
+    "description":"capital of Guinea",
+    "lat_dd":9.509166666,
+    "lon_dd":-13.712222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Un%20aper%C3%A7u%20de%20la%20ville%20de%20conakry.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Guinea-Bissau",
+    "capital":"Bissau",
+    "description":"capital city of Guinea-Bissau",
+    "lat_dd":11.859166666,
+    "lon_dd":-15.595555555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/20130610%20-%20Monumento%20aos%20Her%C3%B3is%20da%20Independ%C3%AAncia.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Liberia",
+    "capital":"Monrovia",
+    "description":"capital city of Liberia",
+    "lat_dd":6.310555555,
+    "lon_dd":-10.804722222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Liberia%2C%20Africa%20-%20panoramio%20%28256%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"State of Palestine",
+    "capital":"Jerusalem",
+    "description":"city in the Middle East, holy to the three Abrahamic religions, capital of the State of Israel",
+    "lat_dd":31.778888888,
+    "lon_dd":35.225555555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Israel",
+    "capital":"Jerusalem",
+    "description":"city in the Middle East, holy to the three Abrahamic religions, capital of the State of Israel",
+    "lat_dd":31.778888888,
+    "lon_dd":35.225555555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Pakistan",
+    "capital":"Islamabad",
+    "description":"capital city of Pakistan",
+    "lat_dd":33.698888888,
+    "lon_dd":73.036944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/King%20Faisal%20Mosque.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Croatia",
+    "capital":"Zagreb",
+    "description":"capital city of Croatia",
+    "lat_dd":45.813055555,
+    "lon_dd":15.977222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Zagreb%20%2829255640143%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Mexico",
+    "capital":"Mexico City",
+    "description":"capital and largest city of Mexico",
+    "lat_dd":19.419444444,
+    "lon_dd":-99.145555555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sobrevuelos%20CDMX%20HJ2A5116%20%2826515134738%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"United Kingdom",
+    "capital":"London",
+    "description":"capital and largest city of England and the United Kingdom",
+    "lat_dd":51.507222222,
+    "lon_dd":-0.1275,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/London%20Tower%20Bridge%2022.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Egypt",
+    "capital":"Cairo",
+    "description":"capital city of Egypt",
+    "lat_dd":30.044444444,
+    "lon_dd":31.235833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cairo%20Form%20Top.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Uruguay",
+    "capital":"Montevideo",
+    "description":"capital and largest city of Uruguay",
+    "lat_dd":-34.866666666,
+    "lon_dd":-56.166666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/The%20City%20%28198895997%29.jpeg",
+    "image_path":""
+  },
+  {
+    "country":"Bangladesh",
+    "capital":"Dhaka",
+    "description":"capital and largest city of Bangladesh",
+    "lat_dd":23.728888888,
+    "lon_dd":90.394444444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Dhaka%20skyline1.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Venezuela",
+    "capital":"Caracas",
+    "description":"capital and largest city of Venezuela",
+    "lat_dd":10.5,
+    "lon_dd":-66.933333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Caracas%20desde%20el%20%C3%A1vila.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Guatemala",
+    "capital":"Guatemala City",
+    "description":"capital and largest city of the Republic of Guatemala",
+    "lat_dd":14.641666666,
+    "lon_dd":-90.513333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Buildings%20in%20Guatemala%20City.jpg",
+    "image_path":""
+  },
+  {
+    "country":"France",
+    "capital":"Paris",
+    "description":"capital city and largest city of France",
+    "lat_dd":48.856666666,
+    "lon_dd":2.352222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Paris%20-%20Eiffelturm%20und%20Marsfeld2.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Lithuania",
+    "capital":"Vilnius",
+    "description":"capital and largest city of Lithuania",
+    "lat_dd":54.687222222,
+    "lon_dd":25.28,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vilnius%20Modern%20Skyline%2C%20Lithuania%20-%20Diliff.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Italy",
+    "capital":"Rome",
+    "description":"capital and largest city of Italy",
+    "lat_dd":41.893055555,
+    "lon_dd":12.482777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Rome%20Skyline%20%288012016319%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Norway",
+    "capital":"Oslo",
+    "description":"capital city of Norway",
+    "lat_dd":59.913333333,
+    "lon_dd":10.738888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Oslo%20newer%20montage%202013.png",
+    "image_path":"capital_images\/oslo.png"
+  },
+  {
+    "country":"Cameroon",
+    "capital":"Yaoundé",
+    "description":"capital of Cameroon",
+    "lat_dd":3.857777777,
+    "lon_dd":11.518055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Yaound%C3%A9%201.jpg",
+    "image_path":"capital_images\/yaoundé.jpg"
+  },
+  {
+    "country":"Equatorial Guinea",
+    "capital":"Malabo",
+    "description":"capital of Equatorial Guinea",
+    "lat_dd":3.752063888,
+    "lon_dd":8.7737,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Malabo%20a%2013-oct-01.jpg",
+    "image_path":"capital_images\/malabo.jpg"
+  },
+  {
+    "country":"Cape Verde",
+    "capital":"Praia",
+    "description":"capital of Cape Verde",
+    "lat_dd":14.917719444,
+    "lon_dd":-23.509155555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Praia%20Harbor.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ghana",
+    "capital":"Accra",
+    "description":"capital city of Ghana",
+    "lat_dd":5.55602,
+    "lon_dd":-0.1969,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Central%20accra-2.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ghana",
+    "capital":"Accra",
+    "description":"capital city of Ghana",
+    "lat_dd":5.546111111,
+    "lon_dd":-0.206666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Central%20accra-2.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Russia",
+    "capital":"Moscow",
+    "description":"capital and most populous city of Russia",
+    "lat_dd":55.750555555,
+    "lon_dd":37.6175,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Saint%20Basil%27s%20Cathedral%20and%20the%20Red%20Square.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Democratic Republic of the Congo",
+    "capital":"Kinshasa",
+    "description":"capital and the largest city of the Democratic Republic of the Congo",
+    "lat_dd":-4.321944444,
+    "lon_dd":15.311944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vue%20Kinshasa.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Lebanon",
+    "capital":"Beirut",
+    "description":"capital and largest city of Lebanon",
+    "lat_dd":33.886944444,
+    "lon_dd":35.513055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Beirutcity.jpg",
+    "image_path":"capital_images\/beirut.jpg"
+  },
+  {
+    "country":"Japan",
+    "capital":"Tokyo",
+    "description":"capital and largest city of Japan",
+    "lat_dd":35.689444444,
+    "lon_dd":139.691666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tokyo%20Japan%20taken%20by%20Hodoyoshi-3%20Satellite.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Bolivia",
+    "capital":"La Paz",
+    "description":"seat of government of Bolivia",
+    "lat_dd":-16.495833333,
+    "lon_dd":-68.133333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/La%20Paz-center.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Philippines",
+    "capital":"Manila",
+    "description":"capital city of the Philippines",
+    "lat_dd":14.595833333,
+    "lon_dd":120.977222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Big%20Manila.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Finland",
+    "capital":"Helsinki",
+    "description":"capital and most populous city of Finland",
+    "lat_dd":60.170833333,
+    "lon_dd":24.9375,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Helsinki%20Lutheran%20Cathedral%20%28panoraaman%C3%A4k%C3%B6ala%29-2%20%28s%C3%A4%C3%A4t%C3%B6%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Syria",
+    "capital":"Damascus",
+    "description":"capital and largest city of Syria",
+    "lat_dd":33.513055555,
+    "lon_dd":36.291944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Damascus%2C%20Syria%2C%20Panorama%20at%20sunset.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Cuba",
+    "capital":"Havana",
+    "description":"capital and largest city of Cuba",
+    "lat_dd":23.136666666,
+    "lon_dd":-82.358888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cuba%20libre%20%286941395159%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Austria",
+    "capital":"Vienna",
+    "description":"capital of and state in Austria",
+    "lat_dd":48.208333333,
+    "lon_dd":16.3725,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Collage%20von%20Wien.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Argentina",
+    "capital":"Buenos Aires",
+    "description":"capital and largest city of Argentina",
+    "lat_dd":-34.599722222,
+    "lon_dd":-58.381944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Buenos%20Aires%20-%20Puerto%20Madero.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Republic of the Congo",
+    "capital":"Brazzaville",
+    "description":"capital of the Republic of the Congo",
+    "lat_dd":-4.269444444,
+    "lon_dd":15.271111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Quartier%20OCH.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Cyprus",
+    "capital":"Nicosia",
+    "description":"Capital of Cyprus and Northern Cyprus (de facto)",
+    "lat_dd":35.1725,
+    "lon_dd":33.365,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nicosia%2001-2017%20img23%20View%20from%20Shacolas%20Tower.jpg",
+    "image_path":""
+  },
+  {
+    "country":"United Arab Emirates",
+    "capital":"Abu Dhabi",
+    "description":"capital city of the United Arab Emirates",
+    "lat_dd":24.451111111,
+    "lon_dd":54.396944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8%20%28Abu%20Dhabi%29%20-%20panoramio%20%281%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kazakhstan",
+    "capital":"Astana",
+    "description":"capital of Kazakhstan",
+    "lat_dd":51.133333333,
+    "lon_dd":71.433333333,
+    "image_url":"",
+    "image_path":""
+  },
+  {
+    "country":"Ireland",
+    "capital":"Dublin",
+    "description":"capital and largest city of Ireland",
+    "lat_dd":53.349722222,
+    "lon_dd":-6.260277777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Dublin%20-%20aerial%20-%202025-02-06%2002.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Iceland",
+    "capital":"Reykjavík",
+    "description":"capital and largest city in Iceland",
+    "lat_dd":64.1475,
+    "lon_dd":-21.935,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Reykjav%C3%ADk%205545%20%28cropped%29.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Bahrain",
+    "capital":"Manama",
+    "description":"capital of Bahrain",
+    "lat_dd":26.225,
+    "lon_dd":50.5775,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bahrain%20World%20trade%20Center%20.jpg",
+    "image_path":"capital_images\/manama.jpg"
+  },
+  {
+    "country":"Kingdom of Denmark",
+    "capital":"Copenhagen",
+    "description":"capital and largest city of Denmark",
+    "lat_dd":55.676111111,
+    "lon_dd":12.568888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Copenhagen%20-%20view%20from%20Christiansborg%20castle.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kingdom of the Netherlands",
+    "capital":"Amsterdam",
+    "description":"capital and most populous city of the Netherlands",
+    "lat_dd":52.366666666,
+    "lon_dd":4.883333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Amsterdam%20airphoto.jpg",
+    "image_path":""
+  },
+  {
+    "country":"India",
+    "capital":"New Delhi",
+    "description":"capital city of India",
+    "lat_dd":28.613888888,
+    "lon_dd":77.208888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/New%20Delhi%20montage.png",
+    "image_path":""
+  },
+  {
+    "country":"Liechtenstein",
+    "capital":"Vaduz",
+    "description":"capital of Liechtenstein",
+    "lat_dd":47.140555555,
+    "lon_dd":9.522222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vista%20de%20Vaduz%2C%20Liechtenstein%2C%202022-10-23%2C%20DD%2028.jpg",
+    "image_path":""
+  },
+  {
+    "country":"San Marino",
+    "capital":"San Marino",
+    "description":"capital city of San Marino",
+    "lat_dd":43.932011111,
+    "lon_dd":12.44845,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/View%20of%20Mount%20Titano%20-%20San%20Marino.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Rwanda",
+    "capital":"Kigali",
+    "description":"capital of Rwanda",
+    "lat_dd":-1.953611111,
+    "lon_dd":30.060555555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kigali2018Cropped.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Qatar",
+    "capital":"Doha",
+    "description":"capital of Qatar",
+    "lat_dd":25.286205555,
+    "lon_dd":51.529436111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Doha%20skyline%20in%20the%20morning%20%2812544910974%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ivory Coast",
+    "capital":"Yamoussoukro",
+    "description":"city of côte d'ivoire",
+    "lat_dd":6.816111111,
+    "lon_dd":-5.274166666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Yamoussoukro%20downtown.jpg",
+    "image_path":"capital_images\/yamoussoukro.jpg"
+  },
+  {
+    "country":"Burkina Faso",
+    "capital":"Ouagadougou",
+    "description":"capital of Burkina Faso",
+    "lat_dd":12.368611111,
+    "lon_dd":-1.5275,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Place%20Memorial%20auz%20Heros%20Nationaux%20in%20Burkina%20Faso%2C%202009.jpg",
+    "image_path":"capital_images\/ouagadougou.jpg"
+  },
+  {
+    "country":"Mozambique",
+    "capital":"Maputo",
+    "description":"capital and chief port of Mozambique",
+    "lat_dd":-25.915277777,
+    "lon_dd":32.576388888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Maputo%20seen%20from%20southeast%20-%20October%202006.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Uganda",
+    "capital":"Kampala",
+    "description":"capital and the largest city of Uganda",
+    "lat_dd":0.313611111,
+    "lon_dd":32.581111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/View%20from%207th%20floor%20on%20Crane%20Chambers%20at%20Kampala%20road%20-%20panoramio.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Angola",
+    "capital":"Luanda",
+    "description":"capital of Angola",
+    "lat_dd":-8.838333333,
+    "lon_dd":13.234444444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Luanda%20feb09%20ost01.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Gabon",
+    "capital":"Libreville",
+    "description":"capital city of Gabon",
+    "lat_dd":0.3901,
+    "lon_dd":9.4544,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Libreville1.jpg",
+    "image_path":"capital_images\/libreville.jpg"
+  },
+  {
+    "country":"Oman",
+    "capital":"Muscat",
+    "description":"capital of Oman",
+    "lat_dd":23.613888888,
+    "lon_dd":58.592222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Old%20city%20of%20Maskat.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Central African Republic",
+    "capital":"Bangui",
+    "description":"capital city of the Central African Republic",
+    "lat_dd":4.37325,
+    "lon_dd":18.562833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bangui%20City%20Centre.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Central African Republic",
+    "capital":"Bangui",
+    "description":"capital city of the Central African Republic",
+    "lat_dd":4.37325,
+    "lon_dd":18.562833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bangui%20Shopping%20District.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Central African Republic",
+    "capital":"Bangui",
+    "description":"capital city of the Central African Republic",
+    "lat_dd":4.37325,
+    "lon_dd":18.562833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bangui%2C%20CAR.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Greece",
+    "capital":"Athens",
+    "description":"capital and largest city of Greece",
+    "lat_dd":37.984166666,
+    "lon_dd":23.728055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Athens%20Montage%20L.png",
+    "image_path":""
+  },
+  {
+    "country":"Estonia",
+    "capital":"Tallinn",
+    "description":"capital and most populous city of Estonia",
+    "lat_dd":59.437222222,
+    "lon_dd":24.745,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tallinna%20vanalinn%202015.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Latvia",
+    "capital":"Riga",
+    "description":"capital and largest city of Latvia",
+    "lat_dd":56.9475,
+    "lon_dd":24.106944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vistas%20desde%20la%20iglesia%20de%20San%20Pedro%2C%20Riga%2C%20Letonia%2C%202012-08-07%2C%20DD%2012.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Georgia",
+    "capital":"Tbilisi",
+    "description":"capital and the largest city of Georgia (country)",
+    "lat_dd":41.7225,
+    "lon_dd":44.7925,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vista%20de%20Tiflis%2C%20Georgia%2C%202016-09-29%2C%20DD%2067-71%20PAN.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Cambodia",
+    "capital":"Phnom Penh",
+    "description":"capital of Cambodia",
+    "lat_dd":11.569583333,
+    "lon_dd":104.921027777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Phnom%20Penh%20aerial.jpg",
+    "image_path":"capital_images\/phnom_penh.jpg"
+  },
+  {
+    "country":"Vietnam",
+    "capital":"Hanoi",
+    "description":"capital of Vietnam",
+    "lat_dd":21.0245,
+    "lon_dd":105.84117,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hanoi%20Montage.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Sweden",
+    "capital":"Stockholm",
+    "description":"capital and largest city of Sweden",
+    "lat_dd":59.329444444,
+    "lon_dd":18.068611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Stockholm%20gamlastan%20etc.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Iraq",
+    "capital":"Baghdad",
+    "description":"capital city of Iraq",
+    "lat_dd":33.315277777,
+    "lon_dd":44.366111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bagdad%20collage.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Somalia",
+    "capital":"Mogadishu",
+    "description":"capital and the largest city of Somalia",
+    "lat_dd":2.039166666,
+    "lon_dd":45.341944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pictures%20from%20an%20armed%20convoy%20trip%20in%20Mogadishu.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Tanzania",
+    "capital":"Dodoma",
+    "description":"city and capital of Tanzania",
+    "lat_dd":-6.1835,
+    "lon_dd":35.746,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nyerere%20Square%20in%20Dodoma.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kenya",
+    "capital":"Nairobi",
+    "description":"capital city of Kenya",
+    "lat_dd":-1.286388888,
+    "lon_dd":36.817222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nairobi%2C%20view%20from%20KICC.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Thailand",
+    "capital":"Bangkok",
+    "description":"capital of Thailand",
+    "lat_dd":13.75,
+    "lon_dd":100.516666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bangkok%20Montage%202024.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Sierra Leone",
+    "capital":"Freetown",
+    "description":"capital of Sierra Leone",
+    "lat_dd":8.483333333,
+    "lon_dd":-13.233055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Freetown-aerialview.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Nigeria",
+    "capital":"Abuja",
+    "description":"capital city of Nigeria",
+    "lat_dd":9.055555555,
+    "lon_dd":7.491388888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/The%20National%20Assembly%20Globe.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Slovakia",
+    "capital":"Bratislava",
+    "description":"capital city of Slovakia",
+    "lat_dd":48.144722222,
+    "lon_dd":17.112777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hlavn%C3%A9%20Namestie%20%2835096533142%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Brunei",
+    "capital":"Bandar Seri Begawan",
+    "description":"capital and largest city of Brunei",
+    "lat_dd":4.916666666,
+    "lon_dd":114.916666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sultan%20Omar%20Ali%20Saifuddin%20Mosque%2002.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Timor-Leste",
+    "capital":"Dili",
+    "description":"capital of East Timor",
+    "lat_dd":-8.553611111,
+    "lon_dd":125.578333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Aussenministerium%20und%20Avenida%20de%20Portugal.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Laos",
+    "capital":"Vientiane",
+    "description":"capital of Laos",
+    "lat_dd":17.98,
+    "lon_dd":102.63,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/20171118%20Vientiane%203220%20DxO.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Comoros",
+    "capital":"Moroni",
+    "description":"capital of Comoros",
+    "lat_dd":-11.703611111,
+    "lon_dd":43.253611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Moroni%20harbour%20%282%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Eswatini",
+    "capital":"Mbabane",
+    "description":"capital of Eswatini",
+    "lat_dd":-26.316666666,
+    "lon_dd":31.133333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mbabane%20-%20City%20overview.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Togo",
+    "capital":"Lomé",
+    "description":"capital city of Togo",
+    "lat_dd":6.13,
+    "lon_dd":1.215833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Imagelom%C3%A920.jpg",
+    "image_path":"capital_images\/lomé.jpg"
+  },
+  {
+    "country":"Benin",
+    "capital":"Porto-Novo",
+    "description":"capital of Benin",
+    "lat_dd":6.483333333,
+    "lon_dd":2.616666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Porto-Novo%20vue.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Jordan",
+    "capital":"Amman",
+    "description":"capital of Jordan",
+    "lat_dd":31.95,
+    "lon_dd":35.933333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Amman.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Seychelles",
+    "capital":"Victoria",
+    "description":"capital city of the Seychelles",
+    "lat_dd":-4.623611111,
+    "lon_dd":55.454444444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Port-victoria%20Seychelles.jpg",
+    "image_path":""
+  },
+  {
+    "country":"South Africa",
+    "capital":"Cape Town",
+    "description":"city in the Western Cape, South Africa",
+    "lat_dd":-33.925277777,
+    "lon_dd":18.423888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ciudad%20del%20Cabo%20desde%20Cabeza%20de%20Le%C3%B3n%2C%20Sud%C3%A1frica%2C%202018-07-22%2C%20DD%2034.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Afghanistan",
+    "capital":"Kabul",
+    "description":"capital and the largest city of Afghanistan",
+    "lat_dd":34.532777777,
+    "lon_dd":69.165833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kabul%20TV%20Hill%20view.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Montenegro",
+    "capital":"Podgorica",
+    "description":"capital city of Montenegro",
+    "lat_dd":42.441388888,
+    "lon_dd":19.262777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Titograd.jpg",
+    "image_path":""
+  },
+  {
+    "country":"South Africa",
+    "capital":"Pretoria",
+    "description":"administrative capital of South Africa located in the Gauteng province",
+    "lat_dd":-25.746388888,
+    "lon_dd":28.188055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pretoria%20CBD1.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Mauritius",
+    "capital":"Port Louis",
+    "description":"capital city of Mauritius",
+    "lat_dd":-20.161944444,
+    "lon_dd":57.498888888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mauritius%20port%20louis.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Malawi",
+    "capital":"Lilongwe",
+    "description":"capital of Malawi",
+    "lat_dd":-13.96692,
+    "lon_dd":33.78725,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lilongwe%20Area%202.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Malawi",
+    "capital":"Lilongwe",
+    "description":"capital of Malawi",
+    "lat_dd":-13.983333333,
+    "lon_dd":33.783333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lilongwe%20Area%202.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Zambia",
+    "capital":"Lusaka",
+    "description":"capital of Zambia",
+    "lat_dd":-15.416666666,
+    "lon_dd":28.283333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Downtown%20Lusaka.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Belarus",
+    "capital":"Minsk",
+    "description":"capital and largest city of Belarus",
+    "lat_dd":53.902246,
+    "lon_dd":27.561837,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%9C%D1%96%D0%BD%D1%81%D0%BA.%20%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%BF%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Hungary",
+    "capital":"Budapest",
+    "description":"capital and largest city of Hungary",
+    "lat_dd":47.498333333,
+    "lon_dd":19.040833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Budapest%2C%20Hungary%20%28explored%29%20%2814995308504%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Luxembourg",
+    "capital":"Luxembourg",
+    "description":"capital and largest city of Luxembourg",
+    "lat_dd":49.610555555,
+    "lon_dd":6.132777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/City%20Hall%20of%20Luxembourg%20City%2001.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Australia",
+    "capital":"Canberra",
+    "description":"capital city of Australia",
+    "lat_dd":-35.293055555,
+    "lon_dd":149.126944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Canberra%20from%20Mt%20Ainslie%20%285642431515%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Honduras",
+    "capital":"Tegucigalpa",
+    "description":"capital and largest city of Honduras",
+    "lat_dd":14.105713888,
+    "lon_dd":-87.204008333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tegucigalpa%20desde%20el%20picacho%20en%20septiembre.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Belize",
+    "capital":"Belmopan",
+    "description":"capital of Belize",
+    "lat_dd":17.25,
+    "lon_dd":-88.7675,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Belmopan%20Parliament.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Malaysia",
+    "capital":"Kuala Lumpur",
+    "description":"federal territory and capital city of Malaysia",
+    "lat_dd":3.147777777,
+    "lon_dd":101.695277777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kuala%20Lumpur%20with%20Petronas%20Towers.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Taiwan",
+    "capital":"Taipei",
+    "description":"special municipality and capital city of Taiwan",
+    "lat_dd":25.0375,
+    "lon_dd":121.5625,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/20200809%20Taipei%2C%20Taiwan%20Skyline.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ukraine",
+    "capital":"Kyiv",
+    "description":"capital and largest city of Ukraine",
+    "lat_dd":50.45,
+    "lon_dd":30.523611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kyiv%20%28234807751%29.jpeg",
+    "image_path":""
+  },
+  {
+    "country":"The Bahamas",
+    "capital":"Nassau",
+    "description":"capital and largest city of the Bahamas",
+    "lat_dd":25.078055555,
+    "lon_dd":-77.338611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/BHA%20Nassau%2C%20Paradise%20Island%2C%20Atlantis%20Bridge%20001.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Yemen",
+    "capital":"Sanaa",
+    "description":"capital city of Yemen",
+    "lat_dd":15.35,
+    "lon_dd":44.2,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/San%27a03%20flickr.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kiribati",
+    "capital":"Tarawa",
+    "description":"atoll in the central Pacific Ocean and the capital of Kiribati",
+    "lat_dd":1.433333333,
+    "lon_dd":173.0,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tarawa%2C%20Kiribati%20ESA22224800.jpeg",
+    "image_path":""
+  },
+  {
+    "country":"Spain",
+    "capital":"Madrid",
+    "description":"capital of Spain",
+    "lat_dd":40.416944444,
+    "lon_dd":-3.703333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Madrid%20%2838624991251%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Andorra",
+    "capital":"Andorra la Vella",
+    "description":"capital of Andorra",
+    "lat_dd":42.5,
+    "lon_dd":1.5,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santa%20Coloma%20Andorra.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Vanuatu",
+    "capital":"Port Vila",
+    "description":"capital and largest city of Vanuatu",
+    "lat_dd":-17.73333,
+    "lon_dd":168.316667,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Port%20Vila%20aerial.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Fiji",
+    "capital":"Suva",
+    "description":"capital city of Fiji",
+    "lat_dd":-18.133333333,
+    "lon_dd":178.433333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Suva%2C%20Fiji%2052.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Albania",
+    "capital":"Tirana",
+    "description":"The capital and the largest city of Albania",
+    "lat_dd":41.328888888,
+    "lon_dd":19.817777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tirana%20from%20South.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Moldova",
+    "capital":"Chișinău",
+    "description":"capital of Moldova",
+    "lat_dd":47.022777777,
+    "lon_dd":28.835277777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Arch%20of%20Triumph%2C%20Chisinau%2C%20Republic%20of%20Moldova%20%2851160304626%20cropped%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Maldives",
+    "capital":"Malé",
+    "description":"capital of the Maldives",
+    "lat_dd":4.175,
+    "lon_dd":73.508333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Male-total.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Lesotho",
+    "capital":"Maseru",
+    "description":"capital of Lesotho",
+    "lat_dd":-29.31,
+    "lon_dd":27.48,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Maseru%20from%20Parliament%20Hill.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Madagascar",
+    "capital":"Antananarivo",
+    "description":"capital and largest city of Madagascar",
+    "lat_dd":-18.91,
+    "lon_dd":47.525,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lake%20Anosy%2C%20Central%20Antananarivo%2C%20Capital%20of%20Madagascar%2C%20Photo%20by%20Sascha%20Grabow.jpg",
+    "image_path":"capital_images\/antananarivo.jpg"
+  },
+  {
+    "country":"Sixth Republic of South Korea",
+    "capital":"Seoul",
+    "description":"capital and largest city of South Korea",
+    "lat_dd":37.56,
+    "lon_dd":126.99,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EC%A0%84%EA%B2%BD.jpg",
+    "image_path":""
+  },
+  {
+    "country":"South Korea",
+    "capital":"Seoul",
+    "description":"capital and largest city of South Korea",
+    "lat_dd":37.56,
+    "lon_dd":126.99,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EC%A0%84%EA%B2%BD.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Sixth Republic of South Korea",
+    "capital":"Seoul",
+    "description":"capital and largest city of South Korea",
+    "lat_dd":37.56,
+    "lon_dd":126.99,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%EC%95%84%EB%A6%AC%EB%9E%91%201%ED%98%B8%EA%B0%80%20%EC%B4%AC%EC%98%81%ED%95%9C%20%EC%9E%A0%EC%8B%A4%20%28350%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"South Korea",
+    "capital":"Seoul",
+    "description":"capital and largest city of South Korea",
+    "lat_dd":37.56,
+    "lon_dd":126.99,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%EC%95%84%EB%A6%AC%EB%9E%91%201%ED%98%B8%EA%B0%80%20%EC%B4%AC%EC%98%81%ED%95%9C%20%EC%9E%A0%EC%8B%A4%20%28350%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Azerbaijan",
+    "capital":"Baku",
+    "description":"capital of Azerbaijan",
+    "lat_dd":40.366655555,
+    "lon_dd":49.835183333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Baku%20004%201953c.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kyrgyzstan",
+    "capital":"Bishkek",
+    "description":"capital city of Kyrgyzstan",
+    "lat_dd":42.866666666,
+    "lon_dd":74.566666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bishkek.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Tajikistan",
+    "capital":"Dushanbe",
+    "description":"capital of Tajikistan",
+    "lat_dd":38.573055555,
+    "lon_dd":68.786388888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Dushanbe%20Presidential%20Palace%2001.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Guyana",
+    "capital":"Georgetown",
+    "description":"capital city of Guyana",
+    "lat_dd":6.805833333,
+    "lon_dd":-58.150833333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St%20George%27s%20Cathedral.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Guyana",
+    "capital":"Georgetown",
+    "description":"capital city of Guyana",
+    "lat_dd":6.80448,
+    "lon_dd":-58.15527,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St%20George%27s%20Cathedral.jpg",
+    "image_path":""
+  },
+  {
+    "country":"São Tomé and Príncipe",
+    "capital":"São Tomé",
+    "description":"capital city of São Tomé and Príncipe",
+    "lat_dd":0.333333333,
+    "lon_dd":6.733333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Org%204cd8129a56d8fa1d%201582100284000.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Namibia",
+    "capital":"Windhoek",
+    "description":"capital of the Republic of Namibia",
+    "lat_dd":-22.57,
+    "lon_dd":17.083611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Windhoek-Skyline.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Mongolia",
+    "capital":"Ulaanbaatar",
+    "description":"capital and largest city of Mongolia",
+    "lat_dd":47.921357,
+    "lon_dd":106.905515,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/UB%20downtown.jpg",
+    "image_path":"capital_images\/ulaanbaatar.jpg"
+  },
+  {
+    "country":"Turkmenistan",
+    "capital":"Ashgabat",
+    "description":"capital city of Turkmenistan",
+    "lat_dd":37.95,
+    "lon_dd":58.383333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Neutrality-Road-Ashgabat-2015.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "capital":"Sarajevo",
+    "description":"capital city of Bosnia and Herzegovina",
+    "lat_dd":43.856388888,
+    "lon_dd":18.413055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sarajevo%20City%20Panorama.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Marshall Islands",
+    "capital":"Majuro",
+    "description":"capital of the Marshall Islands",
+    "lat_dd":7.0918,
+    "lon_dd":171.3802,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Majuro%20main%20road.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Nauru",
+    "capital":"Yaren District",
+    "description":"district and de facto capital of Nauru",
+    "lat_dd":-0.5477,
+    "lon_dd":166.920867,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nauru-parliament.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Tuvalu",
+    "capital":"Funafuti",
+    "description":"capital of Tuvalu",
+    "lat_dd":-8.504777777,
+    "lon_dd":179.117361111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Funafuti%20township.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Haiti",
+    "capital":"Port-au-Prince",
+    "description":"capital of Haiti",
+    "lat_dd":18.5425,
+    "lon_dd":-72.338611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/US%20Navy%20100221-N-5787K-002%20An%20aerial%20view%20of%20the%20logistical%20area%20near%20the%20port%20in%20Port-au-Prince%20%28cropped%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Morocco",
+    "capital":"Rabat",
+    "description":"capital city of Morocco",
+    "lat_dd":34.025277777,
+    "lon_dd":-6.836111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kasbah%20des%20Oudaias%20P1060356.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Algeria",
+    "capital":"Algiers",
+    "description":"capital city of Algeria",
+    "lat_dd":36.776388888,
+    "lon_dd":3.058611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Alger%20monochrome.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Algeria",
+    "capital":"Algiers",
+    "description":"capital city of Algeria",
+    "lat_dd":36.776388888,
+    "lon_dd":3.058611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Algiers%20Montage.png",
+    "image_path":""
+  },
+  {
+    "country":"Algeria",
+    "capital":"Algiers",
+    "description":"capital city of Algeria",
+    "lat_dd":36.776388888,
+    "lon_dd":3.058611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Argel%203.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Chad",
+    "capital":"N'Djamena",
+    "description":"capital and largest city of Chad",
+    "lat_dd":12.11,
+    "lon_dd":15.05,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Place%20de%20la%20nation2%20%28Tchad%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Niger",
+    "capital":"Niamey",
+    "description":"capital of Niger",
+    "lat_dd":13.515,
+    "lon_dd":2.1175,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Niamey%20from%20grand%20mosque%20theatre%202006.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Iran",
+    "capital":"Tehran",
+    "description":"capital city of Iran",
+    "lat_dd":35.688888888,
+    "lon_dd":51.389722222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/North%20of%20tehran.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ethiopia",
+    "capital":"Addis Ababa",
+    "description":"capital city of Ethiopia",
+    "lat_dd":9.027222222,
+    "lon_dd":38.736944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/AddisView.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Bhutan",
+    "capital":"Thimphu",
+    "description":"capital of Bhutan",
+    "lat_dd":27.47135,
+    "lon_dd":89.63367,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Thimphu-12-vom%20Buddha%20Dordenma-2015-gje.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Antigua and Barbuda",
+    "capital":"Saint John's",
+    "description":"capital city of Antigua and Barbuda",
+    "lat_dd":17.121111111,
+    "lon_dd":-61.844722222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St%20Johns%20Antigua%202012.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Dominica",
+    "capital":"Roseau",
+    "description":"capital of Dominica",
+    "lat_dd":15.3,
+    "lon_dd":-61.383333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/RoseauWide..jpg",
+    "image_path":""
+  },
+  {
+    "country":"Papua New Guinea",
+    "capital":"Port Moresby",
+    "description":"capital of Papua New Guinea",
+    "lat_dd":-9.478888888,
+    "lon_dd":147.149444444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Port%20Moresby%20Town2%20Mschlauch.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Costa Rica",
+    "capital":"San José",
+    "description":"capital of Costa Rica",
+    "lat_dd":9.932511111,
+    "lon_dd":-84.079580555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cityscape%20of%20San%20Jos%C3%A9%2C%20Costa%20Rica%20%28253552473%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"El Salvador",
+    "capital":"San Salvador",
+    "description":"capital of El Salvador",
+    "lat_dd":13.698963888,
+    "lon_dd":-89.191427777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Catedral%20San%20SalvadorMarzo.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Myanmar",
+    "capital":"Naypyidaw",
+    "description":"capital city of Myanmar",
+    "lat_dd":19.7475,
+    "lon_dd":96.115,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Naypyidaw%20--%20Water%20Fountain%20Garden.JPG",
+    "image_path":""
+  },
+  {
+    "country":"South Africa",
+    "capital":"Bloemfontein",
+    "description":"judicial capital of South Africa",
+    "lat_dd":-29.1,
+    "lon_dd":26.216666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bloemfontein%2C%20Free%20State%2C%20South%20Africa%20%2820351086709%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Mauritania",
+    "capital":"Nouakchott",
+    "description":"capital of Mauritania",
+    "lat_dd":18.08581,
+    "lon_dd":-15.9785,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/15-Nouakchott-eH-R0058185.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Botswana",
+    "capital":"Gaborone",
+    "description":"capital city of Botswana",
+    "lat_dd":-24.656944444,
+    "lon_dd":25.908611111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Gaborone%20skyline.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Zimbabwe",
+    "capital":"Harare",
+    "description":"capital and largest city of Zimbabwe",
+    "lat_dd":-17.829166666,
+    "lon_dd":31.052222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Harare%20skyline.jpg",
+    "image_path":""
+  },
+  {
+    "country":"New Zealand",
+    "capital":"Wellington",
+    "description":"capital city of New Zealand; urban area of the cities of Wellington, Lower Hutt, Upper Hutt, and Porirua",
+    "lat_dd":-41.288888888,
+    "lon_dd":174.777222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/WellingtonPanorama.jpg",
+    "image_path":"capital_images\/wellington.jpg"
+  },
+  {
+    "country":"Malta",
+    "capital":"Valletta",
+    "description":"capital of Malta",
+    "lat_dd":35.897777777,
+    "lon_dd":14.5125,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Malta%2C%202010%20-%20panoramio%20-%20Bengt%20Nyman%20%2823%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Brazil",
+    "capital":"Brasília",
+    "description":"federal capital of Brazil",
+    "lat_dd":-15.793888888,
+    "lon_dd":-47.882777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bras%C3%ADlia%20Collage.png",
+    "image_path":""
+  },
+  {
+    "country":"North Korea",
+    "capital":"Pyongyang",
+    "description":"capital city of North Korea",
+    "lat_dd":39.016666666,
+    "lon_dd":125.7475,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Panoramic%20view%20from%20Juche%20Tower.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Romania",
+    "capital":"Bucharest",
+    "description":"capital and largest city of Romania",
+    "lat_dd":44.413361111,
+    "lon_dd":26.097777777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bucharest-Skyline-01.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Ecuador",
+    "capital":"Quito",
+    "description":"capital of Ecuador",
+    "lat_dd":-0.22,
+    "lon_dd":-78.5125,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Quito.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Bolivia",
+    "capital":"Sucre",
+    "description":"constitutional capital of Bolivia",
+    "lat_dd":-19.0475,
+    "lon_dd":-65.26,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sucre%20capital%20de%20Bolivia.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Paraguay",
+    "capital":"Asunción",
+    "description":"capital of Paraguay",
+    "lat_dd":-25.3,
+    "lon_dd":-57.633333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Asunci%C3%B3n%20Paraguay.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Nicaragua",
+    "capital":"Managua",
+    "description":"capital of Nicaragua",
+    "lat_dd":12.154372222,
+    "lon_dd":-86.273766666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Avenida%20Bolivar%20A%20Chavez.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Panama",
+    "capital":"Panama City",
+    "description":"capital of Panama",
+    "lat_dd":8.971111111,
+    "lon_dd":-79.534722222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/CintaCosteraPanama.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Saint Kitts and Nevis",
+    "capital":"Basseterre",
+    "description":"capital of Saint Kitts and Nevis",
+    "lat_dd":17.298333333,
+    "lon_dd":-62.734166666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Basseterre.jpeg",
+    "image_path":"capital_images\/basseterre.jpeg"
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "capital":"Kingstown",
+    "description":"capital of Saint Vincent and the Grenadines",
+    "lat_dd":13.166666666,
+    "lon_dd":-61.233333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St.%20Vincent%2C%20Karibik%20-%20Kingstown%20City%20-%20panoramio.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Saint Vincent and the Grenadines",
+    "capital":"Kingstown",
+    "description":"capital of Saint Vincent and the Grenadines",
+    "lat_dd":13.15527,
+    "lon_dd":-61.22742,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St.%20Vincent%2C%20Karibik%20-%20Kingstown%20City%20-%20panoramio.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Grenada",
+    "capital":"St. George's",
+    "description":"capital of Grenada",
+    "lat_dd":12.044444444,
+    "lon_dd":-61.741666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Grenada%20-%20St.%20George.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Jamaica",
+    "capital":"Kingston",
+    "description":"capital of Jamaica",
+    "lat_dd":17.971388888,
+    "lon_dd":-76.793055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/PortofKingston.jpg",
+    "image_path":"capital_images\/kingston.jpg"
+  },
+  {
+    "country":"Dominican Republic",
+    "capital":"Santo Domingo",
+    "description":"capital of the Dominican Republic",
+    "lat_dd":18.4625,
+    "lon_dd":-69.936111111,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santo%20Domingo%20%28Dominican%20Republic%29%20taken%20atop%20Novocentro%20tower%20viewing%20the%20city%20to%20the%20southwest%202010.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Canada",
+    "capital":"Ottawa",
+    "description":"capital city of Canada",
+    "lat_dd":45.424722222,
+    "lon_dd":-75.695,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ottawa%20Montage%202020.jpg",
+    "image_path":""
+  },
+  {
+    "country":"South Sudan",
+    "capital":"Juba",
+    "description":"capital of the Republic of South Sudan",
+    "lat_dd":4.853888888,
+    "lon_dd":31.5825,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Juba%20City.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Colombia",
+    "capital":"Bogotá",
+    "description":"capital city of Colombia",
+    "lat_dd":4.60971,
+    "lon_dd":-74.08175,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Centro%20internacional.JPG",
+    "image_path":"capital_images\/bogotá.JPG"
+  },
+  {
+    "country":"Sri Lanka",
+    "capital":"Colombo",
+    "description":"largest city and de facto capital of Sri Lanka",
+    "lat_dd":6.916666666,
+    "lon_dd":79.833333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Colombo%20skyline%202024.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Barbados",
+    "capital":"Bridgetown",
+    "description":"capital of Barbados",
+    "lat_dd":13.0975,
+    "lon_dd":-59.616666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bridgetown%20aerial.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Samoa",
+    "capital":"Apia",
+    "description":"capital of Samoa",
+    "lat_dd":-13.833333333,
+    "lon_dd":-171.833333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Samoa%20-%20Apia%20Govt%20buildings.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Armenia",
+    "capital":"Yerevan",
+    "description":"capital of Armenia",
+    "lat_dd":40.181388888,
+    "lon_dd":44.514444444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mount%20Ararat%20and%20the%20Yerevan%20skyline%20in%20spring%20%2828mm%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Sudan",
+    "capital":"Khartoum",
+    "description":"capital city of Sudan",
+    "lat_dd":15.60308,
+    "lon_dd":32.52654,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sunset%20Khartoum.jpg",
+    "image_path":"capital_images\/khartoum.jpg"
+  },
+  {
+    "country":"Tunisia",
+    "capital":"Tunis",
+    "description":"capital of Tunisia",
+    "lat_dd":36.800833333,
+    "lon_dd":10.18,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Panoramique%20du%20centre%20de%20Tunis%20%283197369985%29%20%28cropped%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Libya",
+    "capital":"Tripoli",
+    "description":"capital city of Libya",
+    "lat_dd":32.87519,
+    "lon_dd":13.18746,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Marcus%20Aurelius%20Arch%20Tripoli%20Libya.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Tonga",
+    "capital":"Nukuʻalofa",
+    "description":"capital city of Tonga",
+    "lat_dd":-21.1343401,
+    "lon_dd":-175.201808,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Royal%20Palace%2C%20Nuku%27alofa%2C%20Nov%2018.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Trinidad and Tobago",
+    "capital":"Port of Spain",
+    "description":"capital of Trinidad and Tobago",
+    "lat_dd":10.666666666,
+    "lon_dd":-61.516666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/POS%20panorama.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Solomon Islands",
+    "capital":"Honiara",
+    "description":"capital of Solomon Islands, on the tropical island Guadalcanal",
+    "lat_dd":-9.433333,
+    "lon_dd":159.95,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Honiara%20aerial%20crop.jpg",
+    "image_path":"capital_images\/honiara.jpg"
+  },
+  {
+    "country":"Peru",
+    "capital":"Lima",
+    "description":"capital and largest city of Peru",
+    "lat_dd":-12.06,
+    "lon_dd":-77.0375,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lima2017%20A.jpg",
+    "image_path":"capital_images\/lima.jpg"
+  },
+  {
+    "country":"Chile",
+    "capital":"Santiago",
+    "description":"capital city of Chile",
+    "lat_dd":-33.4375,
+    "lon_dd":-70.65,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santiago%20en%20invierno.jpg",
+    "image_path":"capital_images\/santiago.jpg"
+  },
+  {
+    "country":"Djibouti",
+    "capital":"Djibouti",
+    "description":"capital city of Djibouti",
+    "lat_dd":11.595,
+    "lon_dd":43.148055555,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Djibouti%20City.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Suriname",
+    "capital":"Paramaribo",
+    "description":"capital city of Suriname",
+    "lat_dd":5.866666666,
+    "lon_dd":-55.166666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Paramaribo%20district%2020.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Nepal",
+    "capital":"Kathmandu",
+    "description":"capital of Nepal",
+    "lat_dd":27.71,
+    "lon_dd":85.32,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Kathmandu%20Avion%2001.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Indonesia",
+    "capital":"Jakarta",
+    "description":"capital and largest city of Indonesia",
+    "lat_dd":-6.175,
+    "lon_dd":106.8275,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jakarta.jpg",
+    "image_path":"capital_images\/jakarta.jpg"
+  },
+  {
+    "country":"Turkey",
+    "capital":"Ankara",
+    "description":"capital of Turkey",
+    "lat_dd":39.93576,
+    "lon_dd":32.83869,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ankara%20%2816290014657%29.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Eritrea",
+    "capital":"Asmara",
+    "description":"capital city of Eritrea",
+    "lat_dd":15.333333333,
+    "lon_dd":38.916666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Asmara2.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Saudi Arabia",
+    "capital":"Riyadh",
+    "description":"capital and largest city of Saudi Arabia",
+    "lat_dd":24.65,
+    "lon_dd":46.71,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Riyadh%20Skyline.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Mali",
+    "capital":"Bamako",
+    "description":"capital of Mali",
+    "lat_dd":12.645833333,
+    "lon_dd":-7.992222222,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Bamako%20037.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kiribati",
+    "capital":"South Tarawa",
+    "description":"capital of Kiribati",
+    "lat_dd":1.333333333,
+    "lon_dd":172.966666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/South%20Tarawa%20from%20the%20air.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Yemen",
+    "capital":"Aden",
+    "description":"port city and temporary capital of Yemen",
+    "lat_dd":12.8,
+    "lon_dd":45.033333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Old%20Town%20Aden%20Yemen.jpg",
+    "image_path":""
+  },
+  {
+    "country":"State of Palestine",
+    "capital":"Ramallah",
+    "description":"city in the State of Palestine",
+    "lat_dd":31.896944444,
+    "lon_dd":35.201666666,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ramallah%202024.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Burundi",
+    "capital":"Gitega",
+    "description":"capital of Burundi",
+    "lat_dd":-3.428333333,
+    "lon_dd":29.925,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Gitega.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Burundi",
+    "capital":"Gitega",
+    "description":"capital of Burundi",
+    "lat_dd":-3.428333333,
+    "lon_dd":29.925,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Centre%20ville%20de%20Gitega.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Palau",
+    "capital":"Ngerulmud",
+    "description":"capital of Palau",
+    "lat_dd":7.500556,
+    "lon_dd":134.624167,
+    "image_url":"",
+    "image_path":""
+  },
+  {
+    "country":"Monaco",
+    "capital":"Commune of Monaco",
+    "description":"single administrative territorial entity of Monaco",
+    "lat_dd":43.730555555,
+    "lon_dd":7.425277777,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mairie%20de%20Monaco.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Kingdom of Patones",
+    "capital":"Patones de Arriba",
+    "description":"human settlement in Patones, Community of Madrid, Spain",
+    "lat_dd":40.865977777,
+    "lon_dd":-3.4929,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Patones%20de%20Arriba%202601.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Kuwait",
+    "capital":"Kuwait City",
+    "description":"capital of Kuwait",
+    "lat_dd":29.375,
+    "lon_dd":47.98,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/LiberationTower.jpg",
+    "image_path":"capital_images\/kuwait_city.jpg"
+  },
+  {
+    "country":"Federated States of Micronesia",
+    "capital":"Palikir",
+    "description":"capital of Federated States of Micronesia",
+    "lat_dd":6.917777777,
+    "lon_dd":158.185,
+    "image_url":"",
+    "image_path":""
+  },
+  {
+    "country":"Saint Lucia",
+    "capital":"Castries",
+    "description":"capital of Saint Lucia",
+    "lat_dd":14.016666666,
+    "lon_dd":-60.983333333,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/CastriesStLucia.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Sri Lanka",
+    "capital":"Sri Jayawardenepura Kotte",
+    "description":"administrative capital of Sri Lanka",
+    "lat_dd":6.9,
+    "lon_dd":79.916388888,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fountain%20at%20Diyatha%20Uyana.JPG",
+    "image_path":""
+  },
+  {
+    "country":"Serbia",
+    "capital":"Belgrade",
+    "description":"capital of Serbia",
+    "lat_dd":44.817777777,
+    "lon_dd":20.456944444,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Beograd%20collage.jpg",
+    "image_path":"capital_images\/belgrade.jpg"
+  },
+  {
+    "country":"Senegal",
+    "capital":"Dakar",
+    "description":"capital and the largest city of Senegal",
+    "lat_dd":14.672555555,
+    "lon_dd":-17.432,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pointe%20des%20Almadies%20-%20Senegal.jpg",
+    "image_path":""
+  },
+  {
+    "country":"The Gambia",
+    "capital":"Banjul",
+    "description":"capital of The Gambia",
+    "lat_dd":13.453055555,
+    "lon_dd":-16.5775,
+    "image_url":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Banjul%20King%20Fahad%20Mosque.jpg",
+    "image_path":""
+  },
+  {
+    "country":"Eswatini",
+    "capital":"Lobamba",
+    "description":"city in Eswatini",
+    "lat_dd":-26.44648,
+    "lon_dd":31.206411,
+    "image_url":"",
+    "image_path":""
+  }
+]
