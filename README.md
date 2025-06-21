@@ -12,4 +12,4 @@ An interactive map that visualizes the straight-line (great-circle) distance in 
 
 ## Screenshot
 
-![Peak-Capital Distance Map Preview](img/peak_capital_distance.png)
+![Peak-Capital Distance Map Preview](peak_capital_distance.png)
